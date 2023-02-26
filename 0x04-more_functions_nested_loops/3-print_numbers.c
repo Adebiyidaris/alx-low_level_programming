@@ -3,15 +3,14 @@
 /**
  * print_numbers - print number from 0 to 9
  *
- * Return: 0
+ * Return: void
 */
 void print_numbers(void)
 {
-int i = 48;
-for (i = 48; i < 58; i++)
+char i; 
+for (i = '0'; i <= '9'; i++)
 {
 putchar(i);
 }
 putchar('\n');
-
 }
