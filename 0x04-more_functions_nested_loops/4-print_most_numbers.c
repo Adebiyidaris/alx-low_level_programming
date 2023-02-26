@@ -11,9 +11,9 @@ for (number = 48; number < 58; number++)
 {
 if ((number == 50) || (number == 52))
 {
-_putchar(i);
+continue;
 }
+_putchar(number);
 }
-_putchar('\n');
+_putchar(10);
 }
-
