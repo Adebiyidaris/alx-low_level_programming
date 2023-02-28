@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 /**
  * puts2 - print strings in par position.
  * @str: Variable which holds the string.
