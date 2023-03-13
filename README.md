@@ -1,2 +1,2 @@
 C hello world
-and other c ;rograms are found here
+and other c programs are found here
